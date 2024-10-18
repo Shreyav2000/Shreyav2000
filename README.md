@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shreyav2000
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning React and Redux 
-- 💞️ I’m looking to collaborate on Machine learning and Web Dev projects 
-- 📫 How to reach me Linkendin
+-👋 Hi, I'm Shreya Vithala
+-👀 Exploring the boundless intersections of code and creativity
+-🌱 Actively seeking full-time Software Engineering roles to drive impactful projects
+-🤝 Always open to collaborating on challenging software development tasks across diverse technologies
+-📫 Reach me on LinkedIn – I’m always up for meaningful connections
 
 <!---
 Shreyav2000/Shreyav2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
